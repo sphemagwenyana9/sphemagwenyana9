@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there 👋 I'm Sphesihle Magwenyana
 
-<!--
-**sphemagwenyana9/sphemagwenyana9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ICT Graduate from Durban, South Africa focused on Software Development.
 
-Here are some ideas to get you started:
+I build real, working web apps — not just tutorials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I work with
+- C# | ASP.NET Core MVC
+- SQL Server | Entity Framework Core
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+### 📌 Featured Project
+**StudentRegistrationApp** — Student Registration System built with ASP.NET Core MVC, SQL Server, and Entity Framework Core.
+- Full CRUD for Students, Courses & Registrations
+- Tested live with SQL Server
+
+### 📫 Let's connect
+- Open to junior dev roles, internships & freelance projects
